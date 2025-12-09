@@ -1,7 +1,8 @@
 Instavision by smashciotechky
 =============
 
-git
+<img width="1536" height="708" alt="instagrabber" src="https://github.com/user-attachments/assets/f6d84359-8893-4891-bea2-abaa784b6ed5" />
+
 
 **Features**
 - **Fetch:** Fetch followers and following lists for a given username (uses Instagram's public GraphQL endpoints).
