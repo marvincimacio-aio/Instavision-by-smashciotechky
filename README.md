@@ -1,7 +1,4 @@
 <img width="1536" height="708" alt="instagrabber" src="https://github.com/user-attachments/assets/f6d84359-8893-4891-bea2-abaa784b6ed5" />
-Instavision by smashciotechky
-
-
 Instavision is a lightweight browser script and bookmarklet that helps you inspect and compare Instagram follower and following lists. It runs entirely in your browser (no backend required), uses Instagram's public GraphQL endpoints to page through lists, and provides quick diffs such as "Don't Follow Me Back" and "I Don't Follow Back". The tool is intended for personal, small-scale use — not for large-scale scraping — and stores saved sessions locally in `localStorage`.
 
 **Features**
